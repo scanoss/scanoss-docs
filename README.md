@@ -4,4 +4,4 @@ Welcome to the SCANOSS Documentation Hub! This page serves as your central resou
 
 # How to access the SCANOSS Documentation Hub?
 
-The SCANOSS Documentation Hub is published to [readthedocs.org](https://about.readthedocs.com/), and you can access it [here]()
+The SCANOSS Documentation Hub is published to [readthedocs.org](https://about.readthedocs.com/), and you can access it [here](https://scanoss-documentation.readthedocs.io/en/latest/).
