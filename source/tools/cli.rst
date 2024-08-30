@@ -17,21 +17,16 @@ Documentation
 
 In this section, you will find every piece of official documentation available, grouped by package.
 
-`scanoss-py <https://github.com/scanoss/scanoss.py>`_
------------
-
-The SCANOSS python package provides a simple, easy to consume library for interacting with SCANOSS APIs/Engine.
-
-
 `Documentation for scanoss-py <https://scanoss.readthedocs.io/projects/scanoss-py/en/latest/>`_
+------------------------------------------------------------------------------------------------
 
 
-scanoss.java
-------------
+Documentation for scanoss.java
+-------------------------------
 
 To be released
 
-scanoss.js
-----------
+Documentation for scanoss.js
+-----------------------------
 
 To be released
