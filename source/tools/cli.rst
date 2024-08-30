@@ -23,7 +23,7 @@ In this section, you will find every piece of official documentation available, 
 The SCANOSS python package provides a simple, easy to consume library for interacting with SCANOSS APIs/Engine.
 
 
-`Documentation for scanoss-py <google.com>`_
+`Documentation for scanoss-py <https://scanoss.readthedocs.io/projects/scanoss-py/en/latest/>`_
 
 
 scanoss.java
