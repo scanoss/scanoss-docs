@@ -1,5 +1,5 @@
 SBOM Workbench
 ++++++++++++++
 
-To be released
+`Documentation for SBOM Workbench <https://scanoss.readthedocs.io/projects/Workbench/en/latest/>`_
 ===============
