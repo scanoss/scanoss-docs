@@ -44,7 +44,7 @@ Use the menu on the left to explore different sections of the documentation. Eac
    :caption: Contents
 
    tools/engine.rst
-   tools/workbench.rst
+   SBOM Workbench <https://scanoss.readthedocs.io/projects/Workbench/en/latest/>
    tools/cli.rst
    tools/api.rst
 
