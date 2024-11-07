@@ -47,6 +47,7 @@ Use the menu on the left to explore different sections of the documentation. Eac
    SBOM Workbench <https://scanoss.readthedocs.io/projects/Workbench/en/latest/>
    tools/cli.rst
    tools/api.rst
+   tools/integrations.rst
 
 .. toctree::
    :maxdepth: 2
