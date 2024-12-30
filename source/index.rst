@@ -48,6 +48,7 @@ Use the menu on the left to explore different sections of the documentation. Eac
    tools/cli.rst
    tools/api.rst
    Integrations <https://scanoss.readthedocs.io/projects/integration-docs/en/latest/>
+   Settings File <https://scanoss.readthedocs.io/projects/settings-file-docs/en/latest/>
 
 .. toctree::
    :maxdepth: 2
