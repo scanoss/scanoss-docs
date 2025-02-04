@@ -2,6 +2,11 @@
 
 Welcome to the SCANOSS Documentation Hub! This page serves as your central resource for exploring the various open-source tools and features available within the SCANOSS platform. Whether you're getting started or looking for advanced functionalities, you'll find comprehensive guides and resources here.
 
+# Local development - Dependencies
+* Python v?
+* [Sphinx](https://www.sphinx-doc.org/en/master/usage/installation.html)
+* [Theme Furo](https://pypi.org/project/furo/)
+
 # How to access the SCANOSS Documentation Hub?
 
 The SCANOSS Documentation Hub is published to [readthedocs.org](https://about.readthedocs.com/), and you can access it [here](https://scanoss-documentation.readthedocs.io/en/latest/).
